@@ -1,0 +1,26 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APao-dev/appNode.git"
+  },
+  "author": "Paola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/APao-dev/appNode/issues"
+  },
+  "homepage": "https://github.com/APao-dev/appNode#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
